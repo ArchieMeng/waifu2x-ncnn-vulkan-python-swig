@@ -2,11 +2,14 @@
 
 ![CI](https://github.com/ArchieMeng/waifu2x-ncnn-vulkan-python/workflows/CI/badge.svg)
 
+## CAUTION:
+The project has moved to https://github.com/media2x/waifu2x-ncnn-vulkan-python
+
 ## Introduction
 
 [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) is nihui's ncnn implementation of waifu2x converter. Runs fast on Intel / AMD / Nvidia with Vulkan API.
 
-This project is a Python wrapper of nihui's project.
+This project is the initial SWIG Python wrapper of nihui's project.
 
 waifu2x-ncnn-vulkan-python wraps [waifu2x-ncnn-vulkan project](https://github.com/nihui/waifu2x-ncnn-vulkan) by SWIG to make it easier to integrate waifu2x-ncnn-vulkan with existing python projects.
 
